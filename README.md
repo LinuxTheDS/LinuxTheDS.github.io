@@ -1,4 +1,3 @@
-### TeamNintendMod Wiki Page Yay
-## Woomy3DS
-# How Do I Install Woomy3DS
-*9bootstrip*
+#### Woomy3DS
+## How Do I Install Woomy3DS
+# Method Will Be Disclosed Once Found Out
